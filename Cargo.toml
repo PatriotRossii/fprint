@@ -1,13 +1,14 @@
 [package]
 name = "fprint"
 description = "Flushed print"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["PatriotRossii <patriotrossii2019@mail.ru>"]
 edition = "2018"
 
 license = "MIT"
 repository = "https://github.com/PatriotRossii/fprint/"
 documentation = "https://docs.rs/fprint/"
+readme = "README.md"
 
 categories = ["development-tools"]
 
